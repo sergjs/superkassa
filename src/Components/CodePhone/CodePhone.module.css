@@ -1,0 +1,10 @@
+.code_blog {
+    width: 50px;
+    background-color: #bdd5ee;
+    z-index: 3;
+}
+.code_blog div{
+    padding-top: 7px;
+    padding-left: 10px;
+    border: 0;
+}
